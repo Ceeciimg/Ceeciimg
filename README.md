@@ -2,7 +2,7 @@
 # 👩‍💻 Ceci
 
 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma  
-🚀 Subo proyectos random que hago en clase  
+🚀 Subo proyectos random que hago en clase 
 
 ### 📊 Mis estadísticas en GitHub  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceeciimg&show_icons=true&theme=radical)  
