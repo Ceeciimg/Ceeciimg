@@ -1,6 +1,6 @@
 ## Hi  👋
 
-# 👩‍💻 Ceci Molina  
+# 👩‍💻 Ceci
 
 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma  
 🚀 Subo proyectos random que hago en clase  
